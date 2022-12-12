@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<realtimeStationArrival>
+	<RESULT>
+		<code>INFO-000</code>
+		<developerMessage/>
+		<link/>
+		<message>정상 처리되었습니다.</message>
+		<status>200</status>
+		<total>14</total>
+	</RESULT>
+	<row>
+		<rowNum>1</rowNum>
+		<selectedCount>5</selectedCount>
+		<totalCount>14</totalCount>
+		<subwayId>1065</subwayId>
+		<updnLine>상행</updnLine>
+		<trainLineNm>인천공항2터미널행 - 계양방면</trainLineNm>
+		<subwayHeading>오른쪽</subwayHeading>
+		<statnFid>1065006506</statnFid>
+		<statnTid>1065065042</statnTid>
+		<statnId>1065006505</statnId>
+		<statnNm>김포공항</statnNm>
+		<ordkey>01000인천공항2터미널0</ordkey>
+		<subwayList>1005,1009,1065</subwayList>
+		<statnList>1005000512,1009000902,1065006505</statnList>
+		<barvlDt>0</barvlDt>
+		<btrainNo>A2057</btrainNo>
+		<bstatnId>110</bstatnId>
+		<bstatnNm>인천공항2터미널</bstatnNm>
+		<recptnDt>2022-12-07 11:30:09</recptnDt>
+		<arvlMsg2>김포공항 출발</arvlMsg2>
+		<arvlMsg3>김포공항</arvlMsg3>
+		<arvlCd>2</arvlCd>
+	</row>
+	<row>
+		<rowNum>2</rowNum>
+		<selectedCount>5</selectedCount>
+		<totalCount>14</totalCount>
+		<subwayId>1009</subwayId>
+		<updnLine>상행</updnLine>
+		<trainLineNm>개화행 - 개화방면</trainLineNm>
+		<subwayHeading>오른쪽</subwayHeading>
+		<statnFid>1009000903</statnFid>
+		<statnTid>1009000901</statnTid>
+		<statnId>1009000902</statnId>
+		<statnNm>김포공항</statnNm>
+		<ordkey>01002개화0</ordkey>
+		<subwayList>1005,1009,1065</subwayList>
+		<statnList>1005000512,1009000902,1065006505</statnList>
+		<barvlDt>190</barvlDt>
+		<btrainNo>9073</btrainNo>
+		<bstatnId>901</bstatnId>
+		<bstatnNm>개화</bstatnNm>
+		<recptnDt>2022-12-07 11:32:09</recptnDt>
+		<arvlMsg2>3분 10초 후 (신방화)</arvlMsg2>
+		<arvlMsg3>신방화</arvlMsg3>
+		<arvlCd>99</arvlCd>
+	</row>
+	<row>
+		<rowNum>3</rowNum>
+		<selectedCount>5</selectedCount>
+		<totalCount>14</totalCount>
+		<subwayId>1005</subwayId>
+		<updnLine>상행</updnLine>
+		<trainLineNm>방화행 - 개화산방면</trainLineNm>
+		<subwayHeading>오른쪽</subwayHeading>
+		<statnFid>1005000513</statnFid>
+		<statnTid>1005000511</statnTid>
+		<statnId>1005000512</statnId>
+		<statnNm>김포공항</statnNm>
+		<ordkey>01002방화0</ordkey>
+		<subwayList>1005,1009,1065</subwayList>
+		<statnList>1005000512,1009000902,1065006505</statnList>
+		<barvlDt>300</barvlDt>
+		<btrainNo>5564</btrainNo>
+		<bstatnId>1</bstatnId>
+		<bstatnNm>방화</bstatnNm>
+		<recptnDt>2022-12-07 11:32:08</recptnDt>
+		<arvlMsg2>5분 후 (마곡)</arvlMsg2>
+		<arvlMsg3>마곡</arvlMsg3>
+		<arvlCd>99</arvlCd>
+	</row>
+	<row>
+		<rowNum>4</rowNum>
+		<selectedCount>5</selectedCount>
+		<totalCount>14</totalCount>
+		<subwayId>1065</subwayId>
+		<updnLine>상행</updnLine>
+		<trainLineNm>인천공항2터미널행 - 계양방면 (급행)</trainLineNm>
+		<subwayHeading>오른쪽</subwayHeading>
+		<statnFid>1065006506</statnFid>
+		<statnTid>1065065042</statnTid>
+		<statnId>1065006505</statnId>
+		<statnNm>김포공항</statnNm>
+		<ordkey>01005인천공항2터미널1</ordkey>
+		<subwayList>1005,1009,1065</subwayList>
+		<statnList>1005000512,1009000902,1065006505</statnList>
+		<btrainSttus>급행</btrainSttus>
+		<barvlDt>0</barvlDt>
+		<btrainNo>A1017</btrainNo>
+		<bstatnId>110</bstatnId>
+		<bstatnNm>인천공항2터미널 (급행)</bstatnNm>
+		<recptnDt>2022-12-07 11:30:39</recptnDt>
+		<arvlMsg2>[5]번째 전역 (서울)</arvlMsg2>
+		<arvlMsg3>서울</arvlMsg3>
+		<arvlCd>99</arvlCd>
+	</row>
+	<row>
+		<rowNum>5</rowNum>
+		<selectedCount>5</selectedCount>
+		<totalCount>14</totalCount>
+		<subwayId>1065</subwayId>
+		<updnLine>상행</updnLine>
+		<trainLineNm>인천공항2터미널행 - 계양방면</trainLineNm>
+		<subwayHeading>오른쪽</subwayHeading>
+		<statnFid>1065006506</statnFid>
+		<statnTid>1065065042</statnTid>
+		<statnId>1065006505</statnId>
+		<statnNm>김포공항</statnNm>
+		<ordkey>02002인천공항2터미널0</ordkey>
+		<subwayList>1005,1009,1065</subwayList>
+		<statnList>1005000512,1009000902,1065006505</statnList>
+		<barvlDt>0</barvlDt>
+		<btrainNo>A2059</btrainNo>
+		<bstatnId>110</bstatnId>
+		<bstatnNm>인천공항2터미널</bstatnNm>
+		<recptnDt>2022-12-07 11:30:09</recptnDt>
+		<arvlMsg2>[2]번째 전역 (디지털미디어시티)</arvlMsg2>
+		<arvlMsg3>디지털미디어시티</arvlMsg3>
+		<arvlCd>99</arvlCd>
+	</row>
+</realtimeStationArrival>
